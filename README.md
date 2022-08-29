@@ -1,16 +1,18 @@
 # DB creation and analysis with SQL
 
 Overview
+
   The purpose of this project is to help our client prepare for turnover in their workforce. Our client was still using Excel/VBA to keep track of their employee data. Before we began analysis, we developed an ERD so that we could create an organized and efficient database for our client. We used Postgres to create the database and PgAdmin for our analysis. Our final product was a database that they could use moving forward as well as providing them estimates on how many current employees are set to retire as well as where to look in their current workforce for employees to help train new staff.
   
 Results
+
   Here is a list of staff we have identified as retiring soon:
-  29414 Senior Engineer
-  28254 Senior Staff
-  14222 Engineer
-  4502 Technique Leader
-  1761 Assistant Manager
-  2 Manager
+  * 29414 Senior Engineer
+  * 28254 Senior Staff
+  * 14222 Engineer
+  * 4502 Technique Leader
+  * 1761 Assistant Manager
+  * 2 Manager
   _________
   78155 Total Employees Identified.
   
